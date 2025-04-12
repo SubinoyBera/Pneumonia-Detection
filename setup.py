@@ -11,10 +11,8 @@ def get_requirements(file_name:str) -> List[str]:
     """
     Reads the requirements file and returns the list of package requirements for the development
     of the project.
-
     Args:
-        file_name(str): The name of the requirements-dev file. 
-    
+        file_name(str): Name of the requirements file. 
     Returns:
         List[str]: The list of package requirements.
     """
