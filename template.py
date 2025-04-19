@@ -20,6 +20,8 @@ files_list = [
     "src/pipeline/model_evaluation_pipeline.py",
     "src/entity/__init__.py",
     "src/entity/config_entity.py",
+    "src/config/__init__.py",
+    "src/constants/__init__.py",
     "src/exception.py",
     "src/logger.py",
     "src/utils.py",
